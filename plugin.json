@@ -1,0 +1,12 @@
+{
+    "type": "ecmascript",
+    "id": "fanserials",
+    "file": "fanserials.js",
+    "showtimeVersion": "4.9.401",
+    "version": "0.0.1",
+    "author": "enliberte",
+    "title": "FanSerials",
+    "icon": "logo.png",
+    "synopsis": "FanSerials",
+    "category": "video"
+}
